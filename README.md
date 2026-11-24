@@ -1,4 +1,4 @@
-![Dashboard Preview](dashboard.png)
+![Dashboard Preview](Dashboard.png)
 # Samsung Health Fitness & Activity Analysis Dashboard
 
 ## Overview
